@@ -1,2 +1,2 @@
 # githubexmple
-test
+test repository for learning
